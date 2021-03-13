@@ -302,7 +302,7 @@ header = {
 
 ```
 De Souza, Edson Melo (2021, March 13). Simple PHP API v.1.0.
-Available in: https://storopoli.io/ciencia-de-dados
+Available in: https://github.com/EdsonMSouza/simple-php-api
 ```
 
 Or BibTeX for LaTeX:
@@ -311,7 +311,7 @@ Or BibTeX for LaTeX:
 @misc{desouza2020phpapi,
   author = {De Souza, Edson Melo},
   title = {Simple PHP API v.1.0},
-  url = {https://storopoli.io/ciencia-de-dados},
+  url = {https://github.com/EdsonMSouza/simple-php-api},
   year = {2020},
   month = {March}
 }
