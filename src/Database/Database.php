@@ -18,9 +18,9 @@ class Database
     # PDO config vars
     private static $db_type = 'mysql';
     private static $db_hostname = 'localhost';
-    private static $db_name = 'api_php'; #'u388787754_api_php';
-    private static $db_user = 'root'; #'u388787754_api_php';
-    private static $db_password = ''; #'#*TioPatinhas123#*';
+    private static $db_name = '';
+    private static $db_user = '';
+    private static $db_password = '';
 
     # Constructor
     function __construct(){
