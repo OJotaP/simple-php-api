@@ -20,7 +20,7 @@ If you want, collaborate in this repository any improvements that have been made
 Changes should be updated via <code>composer dump-autoload -o</code> on your local machine.
 
 ## Try Online
-To test this API, use the URL: [http://emsapi.esy.es/res](http://emsapi.esy.es/rest)
+To test this API, use the URL: [http://emsapi.esy.es/rest](http://emsapi.esy.es/rest)
 
 # Documentation
 Below are shown the resources available for using the API.
