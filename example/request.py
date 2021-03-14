@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'http://URI/api/'
+url = 'http://URI/api'
 token = "123"
 
 def insert(name, email, username, password):
@@ -16,7 +16,7 @@ def insert(name, email, username, password):
               "Authorization": token
               }
 
-    response = requests.post(url+"new/", data=json.dumps(
+    response = requests.post(url+"/new/", data=json.dumps(
         payload), headers=header, verify=True)
     r_json = response.text
 
