@@ -19,6 +19,9 @@ If you want, collaborate in this repository any improvements that have been made
 ## Composer
 Changes should be updated via <code>composer dump-autoload -o</code> on your local machine.
 
+## Try Online
+To test this API, use the URL: [http://emsapi.esy.es/res](http://emsapi.esy.es/res)
+
 # Documentation
 Below are shown the resources available for using the API.
 After installation on the server, you can use the [examples](https://github.com/EdsonMSouza/simple-php-api/tree/main/example) on how to use API data with: Node.js, PHP and Python.
