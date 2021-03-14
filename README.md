@@ -56,7 +56,7 @@ CREATE TABLE users (
 )
 ```
 ## Token
-To use the API, include the access Token in <code>\User\UserModel.php</code> method <code>auth()</code>.
+To use the API, include the access Token in <code>src\User\UserModel.php</code> method <code>auth()</code>.
 A suggestion for improvement this API is a Token distribution system.
 
 # *Resources*
